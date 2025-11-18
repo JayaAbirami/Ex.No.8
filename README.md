@@ -28,11 +28,14 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 ○	Use the crafted prompt to generate the image in a text-to-image model (e.g., DALL·E, Stable Diffusion, MidJourney).
 7.	Compare the Generated Image with the Original:
 ○	Assess how closely the generated image matches the original in terms of colors, composition, subject, and style. Note the differences and refine the prompt if necessary.
+
 ## Tools/LLMs for Image Generation:
 ●	DALL·E (by OpenAI): A text-to-image generation tool capable of creating detailed images from textual prompts.
 ○	Website: DALL·E
+
 ●	Stable Diffusion: An open-source model for generating images from text prompts, known for its flexibility and customizable outputs.
 ○	Website: Stable Diffusion
+
 ●	MidJourney: A popular AI tool for generating visually striking and creative images based on text descriptions.
 ○	Website: MidJourney
 ## Instructions:
@@ -43,6 +46,7 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 5.	Iterate and Adjust: If the initial result isn't quite right, adjust the prompt further based on the differences observed between the generated and original image.
 6.	Save and Document: Save the generated image and document your prompt alongside any observations on how the output compares to the original.
 
+---
 ## Expanded Explanation of Tools and Models:
 
 ### **Text-to-Image Generation Technology:**
@@ -99,6 +103,10 @@ As the technology behind text-to-image generation models advances, we can expect
 - [MidJourney](https://www.midjourney.com)
 - Research papers and articles on AI and image generation models.
 
+  | Realism portrait of a young boy with curious eyes, light background | *“Render this young boy's portrait in a cute anime style. Preserve his curious expression and slightly upward gaze. Give him large, innocent anime eyes and softly textured hair. The background should be a bright, stylized outdoor setting.”* | Cute anime-style portrait of a boy, keeping his curious expression and pose, with large eyes and a bright, stylized background |  
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/4b1edd89-d21a-4d4f-ab30-ae4dff28485f" />
+
 
 ## Deliverables:
 1.	The Original Image: Provided image for reference.
@@ -108,4 +116,8 @@ As the technology behind text-to-image generation models advances, we can expect
    
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
+
+
+## Result 
+Thus prompt is executed successfully.
 
